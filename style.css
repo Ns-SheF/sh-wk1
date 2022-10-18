@@ -1,7 +1,7 @@
 #container {
     display: flex;
     border: 1px solid sandybrown;
-    margin: 2px 5px 2px 5px;
+    margin: 25px 25px 25px 25px;
 
 }
 
@@ -11,11 +11,25 @@
 
 p.form{
     display: inline-block;
-    margin: 15px;
+    margin: 20px 115px 20px 20px;
     font-size: small;
     font-family: Helvetica;
     
 }
+p.form1{
+    display: inline-block;
+    margin: 20px 115px 20px 20px;
+    font-size: small;
+    font-family: Helvetica;
+    
+}
+p.form2{
+    display: inline-block;
+    margin: 20px 115px 20px 20px;
+    font-size: small;
+    font-family: Helvetica;
+    
+} 
 
 #box1 {
     height: 100%;
